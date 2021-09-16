@@ -8,3 +8,4 @@ print (int(a))
 
 
 print (hex(23))
+print (int(True))
